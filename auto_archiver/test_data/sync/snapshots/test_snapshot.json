@@ -1,0 +1,19 @@
+{
+  "name": "test_snapshot",
+  "directory": "test_data\\source",
+  "created_at": "2025-12-15T21:07:58.057795",
+  "files": {
+    "file1.txt": {
+      "hash": "4d4d6e40d8c186653e6243355dcdf14c441d91808918d057065fb973a1ac3f4c",
+      "size": 19,
+      "modified": 1765807678.0565934,
+      "created": 1765807678.0565934
+    },
+    "file2.txt": {
+      "hash": "ef17ea685dbad7c166d6d9a4448e138c1265e5740d471d9fa890a9ca9c098b2c",
+      "size": 19,
+      "modified": 1765807678.0565934,
+      "created": 1765807678.0565934
+    }
+  }
+}

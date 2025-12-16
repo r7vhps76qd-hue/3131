@@ -1,0 +1,24 @@
+{
+    "system": {
+        "name": "AutoArchiver",
+        "version": "0.1.0",
+        "debug": true
+    },
+    "logging": {
+        "level": "INFO",
+        "max_size_mb": 10,
+        "backup_count": 5
+    },
+    "storage": {
+        "max_disk_usage_percent": 80,
+        "compression_enabled": true,
+        "encryption_enabled": false
+    },
+    "telegram": {
+        "session_name": "my_session",
+        "api_id": null,
+        "api_hash": null,
+        "download_media": true,
+        "download_documents": true
+    }
+}
